@@ -1,7 +1,9 @@
 
 # Alexa Skill Building Cookbook
 
-<div style="border-style: solid; border-color: black; text-align: center; background-color: lightgreen; padding: 5px;">Please note that the Alexa Cookbook has recently been reorganized.  If you cannot find what you're looking for, try a repo search first, and if that doesn't help, please open an <a href="./issues/new?template=cannot_find.md">issue</a> and we'll do our best to help.</div>
+# ** The Alexa Cookbook has been archived **
+
+**The Alexa Cookbook has been broken up into individual recipes to make code samples easier to search, discover, and implement.  These samples, along with many others, can now be found at [https://github.com/alexa-samples](https://github.com/alexa-samples).**
 
 ### Welcome!
 
